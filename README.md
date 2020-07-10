@@ -10,3 +10,6 @@ Flappy Bird implementation in JavaScript
 
 ## Built with
 P5.js -> https://p5js.org/
+
+## Images
+![img](https://github.com/paulobsa/flappy-bird/blob/master/flappy-bird-wip.png?raw=true)
