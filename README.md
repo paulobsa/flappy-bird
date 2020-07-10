@@ -1,6 +1,9 @@
 # Flappy Bird clone (WIP)
 Flappy Bird implementation in JavaScript
 
+## WIP
+https://paulobsa.github.io/flappy-bird/
+
 ## TODO List
 - Bird animation
 - Bird movements
